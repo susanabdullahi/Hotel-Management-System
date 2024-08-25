@@ -1,8 +1,11 @@
 Hotel Management System
+
 Project Overview
+
 This Hotel Management System is a comprehensive solution built using C# and Visual Studio 2019. The system features an intuitive and visually appealing user interface designed to streamline hotel management tasks.
 
 Features
+
 Cool UI Form: Modern and user-friendly interface for ease of navigation.
 Database Integration: Connects seamlessly with XAMPP, PHPMyAdmin, and MySQL Database.
 Comprehensive Management: Handles various hotel management functionalities efficiently.
@@ -12,6 +15,7 @@ IDE: Visual Studio 2019
 Database Management: MySQL via XAMPP and PHPMyAdmin
 Screenshots
 Below are some screenshots of the project, showcasing the user interface and various functionalities:
+
 ![Screenshot 2023-12-29 214352](https://github.com/user-attachments/assets/d0ca1589-1002-4e9f-b86c-3800f25eca12)
 ![Screenshot 2023-12-29 213632](https://github.com/user-attachments/assets/f30403eb-dd91-480e-a9e9-5b81f9237c0a)
 
